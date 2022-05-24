@@ -145,6 +145,6 @@ These are some possible technical improvements that can be made to make the syst
 </p>
 
 ## Author
-Mohammed Alaaeldin Youssef Mahmoud
-E-mail: mohammed.eldin.88@hotmail.com
+Mohammed Alaaeldin Youssef Mahmoud\
+E-mail: mohammed.eldin.88@hotmail.com\
 ID: 4844271
