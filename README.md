@@ -19,7 +19,8 @@ The goal of this project is to become familiar with using gazebo simulations, wh
 ### Architecture
 
 <p align="center"> 
-<img src="![Untitled](https://user-images.githubusercontent.com/25705086/171546708-115b717f-bc30-4cd6-8efc-5fdab68aaf48.jpg)?raw=true">
+<img src=![Untitled](https://user-images.githubusercontent.com/25705086/171546789-ddb25487-f231-4d7a-9721-0fecce27c3f6.jpg)
+>
 </p>
 
 
