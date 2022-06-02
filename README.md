@@ -19,7 +19,7 @@ The goal of this project is to become familiar with using gazebo simulations, wh
 ### Architecture
 
 <p align="center"> 
-<img src="https://github.com/FraPorta/Itslit/blob/master/exp_assignment2_v2.png?raw=true">
+<img src="![Untitled](https://user-images.githubusercontent.com/25705086/171546708-115b717f-bc30-4cd6-8efc-5fdab68aaf48.jpg)?raw=true">
 </p>
 
 
