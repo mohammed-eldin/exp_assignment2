@@ -1,0 +1,17 @@
+
+<launch>
+    <param name="home_x" value="-5" />
+    <param name="home_y" value="7" />
+
+    <node pkg="exp_assignment2" type="motion_controller.py" name="motion_controller" output="screen">
+    </node>
+
+    <node pkg="exp_assignment2" type="human_interaction_gen.py" name="human_interaction_gen" output="screen">
+    </node>
+
+    <node pkg="exp_assignment2" type="behaviour_controller.py" name="behaviour_controller" output="screen">
+    </node>
+
+     <node pkg="exp_assignment2" type="ball_tracking.py" name="ball_tracking" output="screen">
+    </node>
+</launch>  
