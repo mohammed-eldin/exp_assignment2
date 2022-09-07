@@ -83,8 +83,6 @@ Here the content of the folders contained in this repository is explained
 Contains the definition of a custom action message
 ### Config
 Contains the yaml configuration file for the joint_position_controller and joint_state_controller, managed by the ros_control plugin
-### Documentation
-Contains the html documentation of the project (in order to see it, open the *index.html* file in a web browser like Chrome or Firefox)
 ### Launch
 Contains two launch files. One (*gazebo_world.launch*) is for showing on gazebo the simulated world and spawning  the human, the robot, the ball and their relative action servers and joint controller.
 The other one is for the behaviour architecture that manages the robot and ball movements.
