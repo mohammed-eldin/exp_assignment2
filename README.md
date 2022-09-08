@@ -18,6 +18,7 @@ The goal of this project is to become familiar with using gazebo simulations, wh
 ## Software architecture and state diagram
 ### Architecture
 
+![Assignment 2 - architecture](https://user-images.githubusercontent.com/25705086/189081277-aa02c7d4-1c4c-4f83-9b71-11b2f4ae9cc6.jpg)
 
 #### Components
 * Human Interaction Generator
