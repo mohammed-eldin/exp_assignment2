@@ -18,8 +18,6 @@ The goal of this project is to become familiar with using gazebo simulations, wh
 ## Software architecture and state diagram
 ### Architecture
 
-![rosgraph_exp_ass2](https://user-images.githubusercontent.com/25705086/189075358-8659c280-ecdb-4eb0-b795-4dfbb86db3a1.png)
-
 
 #### Components
 * Human Interaction Generator
