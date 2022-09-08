@@ -70,6 +70,7 @@ List of ros topics that are directly related to the code you are developing:
 ### State Machine
 This is the state machine inside the Behaviour Controller component
 
+![Assignment 2 - state machine](https://user-images.githubusercontent.com/25705086/189081553-19d26cc6-5a3b-4e4a-a10d-cdc70c703515.png)
 
 The **Normal** The behavior consists of randomly moving  around the map. When the ball is detected by the camera, the ball switches to play mode. Otherwise, it may randomly switch to sleep after at least 30 seconds of normal operation.
 
@@ -134,6 +135,7 @@ These are some possible technical improvements that can be made to make the syst
 ## Rqt_graph
 ### Main Architecture and Gazebo Simulation
 
+![rosgraph_exp_ass2](https://user-images.githubusercontent.com/25705086/189081645-e8676f20-f588-48d4-9e8a-65ba1a44b273.png)
 
 ## Author
 Mohammed Alaaeldin Youssef Mahmoud\
