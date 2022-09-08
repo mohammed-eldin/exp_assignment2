@@ -133,7 +133,7 @@ These are some possible technical improvements that can be made to make the syst
 
 
 ## Rqt_graph
-### Main Architecture and Gazebo Simulation
+### Main Architecture
 
 ![rosgraph_exp_ass2](https://user-images.githubusercontent.com/25705086/189081645-e8676f20-f588-48d4-9e8a-65ba1a44b273.png)
 
